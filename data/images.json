@@ -1,0 +1,875 @@
+{
+ "home": [
+  {
+   "file": "assets/img/home/home-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/home/home-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/home/home-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Сложные-кровли-КАРКАСКИН.jpg",
+   "bytes": 528736
+  },
+  {
+   "file": "assets/img/home/home-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2017/03/Проетирование.jpg",
+   "bytes": 147667
+  },
+  {
+   "file": "assets/img/home/home-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/04/Стропильные-фермы.jpg",
+   "bytes": 210754
+  },
+  {
+   "file": "assets/img/home/home-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/04/Дома-Каркаскин.jpg",
+   "bytes": 168881
+  }
+ ],
+ "proizvodstvo": [
+  {
+   "file": "assets/img/proizvodstvo/proizvodstvo-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/proizvodstvo/proizvodstvo-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/proizvodstvo/proizvodstvo-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Типы-ферм-1-300x190.jpg",
+   "bytes": 36114
+  },
+  {
+   "file": "assets/img/proizvodstvo/proizvodstvo-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Типы-ферм-1-600x380.jpg",
+   "bytes": 64259
+  },
+  {
+   "file": "assets/img/proizvodstvo/proizvodstvo-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Типы-ферм-1-768x486.jpg",
+   "bytes": 82099
+  },
+  {
+   "file": "assets/img/proizvodstvo/proizvodstvo-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Типы-ферм-1-1024x649.jpg",
+   "bytes": 112444
+  }
+ ],
+ "fermy": [
+  {
+   "file": "assets/img/fermy/fermy-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy/fermy-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy/fermy-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/12/Производство-ферм-на-МЗП-1024x768.jpg",
+   "bytes": 207210
+  },
+  {
+   "file": "assets/img/fermy/fermy-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/12/Производство-ферм-на-МЗП-300x225.jpg",
+   "bytes": 43390
+  },
+  {
+   "file": "assets/img/fermy/fermy-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/12/Производство-ферм-на-МЗП-600x450.jpg",
+   "bytes": 98415
+  },
+  {
+   "file": "assets/img/fermy/fermy-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/12/Производство-ферм-на-МЗП-768x576.jpg",
+   "bytes": 138805
+  }
+ ],
+ "fermy-dvuxskatnye": [
+  {
+   "file": "assets/img/fermy-dvuxskatnye/fermy-dvuxskatnye-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-dvuxskatnye/fermy-dvuxskatnye-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-dvuxskatnye/fermy-dvuxskatnye-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Двухскатные-фермы.jpg",
+   "bytes": 119918
+  },
+  {
+   "file": "assets/img/fermy-dvuxskatnye/fermy-dvuxskatnye-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Двухскатные-фермы-300x225.jpg",
+   "bytes": 16780
+  },
+  {
+   "file": "assets/img/fermy-dvuxskatnye/fermy-dvuxskatnye-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Двухскатные-фермы-1024x768.jpg",
+   "bytes": 90171
+  },
+  {
+   "file": "assets/img/fermy-dvuxskatnye/fermy-dvuxskatnye-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Двухскатные-фермы-768x576.jpg",
+   "bytes": 59741
+  }
+ ],
+ "fermy-odnoskatnye": [
+  {
+   "file": "assets/img/fermy-odnoskatnye/fermy-odnoskatnye-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-odnoskatnye/fermy-odnoskatnye-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-odnoskatnye/fermy-odnoskatnye-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Односкатные-фермы.jpg",
+   "bytes": 172385
+  },
+  {
+   "file": "assets/img/fermy-odnoskatnye/fermy-odnoskatnye-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Односкатные-фермы-300x225.jpg",
+   "bytes": 21428
+  },
+  {
+   "file": "assets/img/fermy-odnoskatnye/fermy-odnoskatnye-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Односкатные-фермы-1024x768.jpg",
+   "bytes": 125342
+  },
+  {
+   "file": "assets/img/fermy-odnoskatnye/fermy-odnoskatnye-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Односкатные-фермы-768x576.jpg",
+   "bytes": 80911
+  }
+ ],
+ "fermy-mansardnye": [
+  {
+   "file": "assets/img/fermy-mansardnye/fermy-mansardnye-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-mansardnye/fermy-mansardnye-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-mansardnye/fermy-mansardnye-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2017/03/Мансардные-фермы.jpg",
+   "bytes": 140284
+  },
+  {
+   "file": "assets/img/fermy-mansardnye/fermy-mansardnye-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2017/03/Мансардные-фермы-300x182.jpg",
+   "bytes": 21106
+  },
+  {
+   "file": "assets/img/fermy-mansardnye/fermy-mansardnye-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2017/03/Мансардные-фермы-600x364.jpg",
+   "bytes": 52356
+  },
+  {
+   "file": "assets/img/fermy-mansardnye/fermy-mansardnye-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2017/03/Мансардные-фермы-768x467.jpg",
+   "bytes": 76488
+  }
+ ],
+ "fermy-noschnicy": [
+  {
+   "file": "assets/img/fermy-noschnicy/fermy-noschnicy-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-noschnicy/fermy-noschnicy-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-noschnicy/fermy-noschnicy-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-ножницы-на-МЗП.jpg",
+   "bytes": 129500
+  },
+  {
+   "file": "assets/img/fermy-noschnicy/fermy-noschnicy-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-ножницы-на-МЗП-300x225.jpg",
+   "bytes": 19003
+  },
+  {
+   "file": "assets/img/fermy-noschnicy/fermy-noschnicy-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-ножницы-на-МЗП-1024x768.jpg",
+   "bytes": 98180
+  },
+  {
+   "file": "assets/img/fermy-noschnicy/fermy-noschnicy-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-ножницы-на-МЗП-768x576.jpg",
+   "bytes": 65916
+  }
+ ],
+ "fermy-segmentnye": [
+  {
+   "file": "assets/img/fermy-segmentnye/fermy-segmentnye-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-segmentnye/fermy-segmentnye-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-segmentnye/fermy-segmentnye-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Ферма-с-сегментными-поясами.jpg",
+   "bytes": 126523
+  },
+  {
+   "file": "assets/img/fermy-segmentnye/fermy-segmentnye-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Ферма-с-сегментными-поясами-300x225.jpg",
+   "bytes": 17776
+  },
+  {
+   "file": "assets/img/fermy-segmentnye/fermy-segmentnye-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Ферма-с-сегментными-поясами-1024x768.jpg",
+   "bytes": 94785
+  },
+  {
+   "file": "assets/img/fermy-segmentnye/fermy-segmentnye-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Ферма-с-сегментными-поясами-768x576.jpg",
+   "bytes": 62171
+  }
+ ],
+ "fermy-frontonnye": [
+  {
+   "file": "assets/img/fermy-frontonnye/fermy-frontonnye-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-frontonnye/fermy-frontonnye-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-frontonnye/fermy-frontonnye-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фронтонная-ферма-под-окно.jpg",
+   "bytes": 136272
+  },
+  {
+   "file": "assets/img/fermy-frontonnye/fermy-frontonnye-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фронтонная-ферма-под-окно-300x225.jpg",
+   "bytes": 18749
+  },
+  {
+   "file": "assets/img/fermy-frontonnye/fermy-frontonnye-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фронтонная-ферма-под-окно-1024x768.jpg",
+   "bytes": 103131
+  },
+  {
+   "file": "assets/img/fermy-frontonnye/fermy-frontonnye-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фронтонная-ферма-под-окно-768x576.jpg",
+   "bytes": 68122
+  }
+ ],
+ "perekrytiya": [
+  {
+   "file": "assets/img/perekrytiya/perekrytiya-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/perekrytiya/perekrytiya-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/perekrytiya/perekrytiya-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/08/Posi-Joist-mzk-balki-1024x682.jpg",
+   "bytes": 92007
+  },
+  {
+   "file": "assets/img/perekrytiya/perekrytiya-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/08/Posi-Joist-mzk-balki.jpg",
+   "bytes": 89297
+  },
+  {
+   "file": "assets/img/perekrytiya/perekrytiya-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/08/Posi-Joist-mzk-balki-300x200.jpg",
+   "bytes": 12580
+  },
+  {
+   "file": "assets/img/perekrytiya/perekrytiya-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/08/Posi-Joist-mzk-balki-600x400.jpg",
+   "bytes": 37754
+  }
+ ],
+ "posi-balki": [
+  {
+   "file": "assets/img/posi-balki/posi-balki-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/posi-balki/posi-balki-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/posi-balki/posi-balki-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Posi-балки.jpg",
+   "bytes": 191126
+  },
+  {
+   "file": "assets/img/posi-balki/posi-balki-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Posi-балки-300x225.jpg",
+   "bytes": 22484
+  },
+  {
+   "file": "assets/img/posi-balki/posi-balki-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Posi-балки-1024x768.jpg",
+   "bytes": 131566
+  },
+  {
+   "file": "assets/img/posi-balki/posi-balki-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Posi-балки-768x576.jpg",
+   "bytes": 82209
+  }
+ ],
+ "balki-stropila": [
+  {
+   "file": "assets/img/balki-stropila/balki-stropila-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/balki-stropila/balki-stropila-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/balki-stropila/balki-stropila-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Стропила-на-МЗП.jpg",
+   "bytes": 152287
+  },
+  {
+   "file": "assets/img/balki-stropila/balki-stropila-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Стропила-на-МЗП-300x225.jpg",
+   "bytes": 20167
+  },
+  {
+   "file": "assets/img/balki-stropila/balki-stropila-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Стропила-на-МЗП-1024x768.jpg",
+   "bytes": 112196
+  },
+  {
+   "file": "assets/img/balki-stropila/balki-stropila-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Стропила-на-МЗП-768x576.jpg",
+   "bytes": 73258
+  }
+ ],
+ "fermy-perekrytij": [
+  {
+   "file": "assets/img/fermy-perekrytij/fermy-perekrytij-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/fermy-perekrytij/fermy-perekrytij-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/fermy-perekrytij/fermy-perekrytij-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-перекрытий-на-МЗП.jpg",
+   "bytes": 152936
+  },
+  {
+   "file": "assets/img/fermy-perekrytij/fermy-perekrytij-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-перекрытий-на-МЗП-300x225.jpg",
+   "bytes": 19160
+  },
+  {
+   "file": "assets/img/fermy-perekrytij/fermy-perekrytij-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-перекрытий-на-МЗП-1024x768.jpg",
+   "bytes": 106413
+  },
+  {
+   "file": "assets/img/fermy-perekrytij/fermy-perekrytij-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Фермы-перекрытий-на-МЗП-768x576.jpg",
+   "bytes": 66489
+  }
+ ],
+ "arki": [
+  {
+   "file": "assets/img/arki/arki-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/arki/arki-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/arki/arki-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/02/Пушкин-фермы-вид-5-225x300.jpg",
+   "bytes": 37756
+  },
+  {
+   "file": "assets/img/arki/arki-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/02/Пушкин-фермы-вид-5-300x400.jpg",
+   "bytes": 51219
+  },
+  {
+   "file": "assets/img/arki/arki-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/02/Пушкин-фермы-вид-5-600x800.jpg",
+   "bytes": 132342
+  },
+  {
+   "file": "assets/img/arki/arki-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/02/Пушкин-фермы-вид-5.jpg",
+   "bytes": 144364
+  }
+ ],
+ "ramy": [
+  {
+   "file": "assets/img/ramy/ramy-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/ramy/ramy-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/ramy/ramy-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/04/Рамы-Барнхаус-1024x768.jpg",
+   "bytes": 122824
+  },
+  {
+   "file": "assets/img/ramy/ramy-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/04/Рамы-Барнхаус-300x225.jpg",
+   "bytes": 20948
+  },
+  {
+   "file": "assets/img/ramy/ramy-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/04/Рамы-Барнхаус-768x576.jpg",
+   "bytes": 77605
+  },
+  {
+   "file": "assets/img/ramy/ramy-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/04/Рамы-Барнхаус-600x450.jpg",
+   "bytes": 51189
+  }
+ ],
+ "opalubka": [
+  {
+   "file": "assets/img/opalubka/opalubka-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/opalubka/opalubka-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  }
+ ],
+ "komplekty": [
+  {
+   "file": "assets/img/komplekty/komplekty-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekty/komplekty-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekty/komplekty-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/различные-виды-крыш.jpg",
+   "bytes": 105210
+  },
+  {
+   "file": "assets/img/komplekty/komplekty-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/различные-виды-крыш-300x211.jpg",
+   "bytes": 14550
+  },
+  {
+   "file": "assets/img/komplekty/komplekty-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/различные-виды-крыш-600x422.jpg",
+   "bytes": 40952
+  },
+  {
+   "file": "assets/img/komplekty/komplekty-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/различные-виды-крыш-768x540.jpg",
+   "bytes": 59301
+  }
+ ],
+ "komplekt-dvuxskat": [
+  {
+   "file": "assets/img/komplekt-dvuxskat/komplekt-dvuxskat-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekt-dvuxskat/komplekt-dvuxskat-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekt-dvuxskat/komplekt-dvuxskat-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/Рядовая-ферма-1024x355.jpg",
+   "bytes": 28172
+  },
+  {
+   "file": "assets/img/komplekt-dvuxskat/komplekt-dvuxskat-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/Рядовая-ферма-300x104.jpg",
+   "bytes": 9561
+  },
+  {
+   "file": "assets/img/komplekt-dvuxskat/komplekt-dvuxskat-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/Рядовая-ферма-600x208.jpg",
+   "bytes": 15886
+  },
+  {
+   "file": "assets/img/komplekt-dvuxskat/komplekt-dvuxskat-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/Рядовая-ферма-768x266.jpg",
+   "bytes": 20786
+  }
+ ],
+ "komplekt-svesy": [
+  {
+   "file": "assets/img/komplekt-svesy/komplekt-svesy-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekt-svesy/komplekt-svesy-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekt-svesy/komplekt-svesy-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/Рядовая-ферма-1024x355.jpg",
+   "bytes": 28172
+  },
+  {
+   "file": "assets/img/komplekt-svesy/komplekt-svesy-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/04/Фронтонная-ферма-1024x340.jpg",
+   "bytes": 34357
+  },
+  {
+   "file": "assets/img/komplekt-svesy/komplekt-svesy-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/08/Фронтонный-свес-1024x447.jpg",
+   "bytes": 36421
+  },
+  {
+   "file": "assets/img/komplekt-svesy/komplekt-svesy-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/08/Фронтонный-свес-300x131.jpg",
+   "bytes": 14513
+  }
+ ],
+ "komplekt-valm": [
+  {
+   "file": "assets/img/komplekt-valm/komplekt-valm-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekt-valm/komplekt-valm-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekt-valm/komplekt-valm-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/08/Рядовая-двухскатная-ферма-для-вальмы.jpg",
+   "bytes": 56577
+  },
+  {
+   "file": "assets/img/komplekt-valm/komplekt-valm-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/08/Рядовая-двухскатная-ферма-для-вальмы-300x98.jpg",
+   "bytes": 14243
+  },
+  {
+   "file": "assets/img/komplekt-valm/komplekt-valm-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/08/Рядовая-двухскатная-ферма-для-вальмы-600x196.jpg",
+   "bytes": 22837
+  },
+  {
+   "file": "assets/img/komplekt-valm/komplekt-valm-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/08/Рядовая-двухскатная-ферма-для-вальмы-768x250.jpg",
+   "bytes": 29329
+  }
+ ],
+ "komplekt-mansard": [
+  {
+   "file": "assets/img/komplekt-mansard/komplekt-mansard-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekt-mansard/komplekt-mansard-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekt-mansard/komplekt-mansard-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/09/Мансардныая-треугольная-ферма-300x161.jpg",
+   "bytes": 15601
+  },
+  {
+   "file": "assets/img/komplekt-mansard/komplekt-mansard-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/09/Мансардныая-треугольная-ферма-600x323.jpg",
+   "bytes": 26600
+  },
+  {
+   "file": "assets/img/komplekt-mansard/komplekt-mansard-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/09/Мансардныая-треугольная-ферма-768x413.jpg",
+   "bytes": 33608
+  },
+  {
+   "file": "assets/img/komplekt-mansard/komplekt-mansard-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2018/09/Мансардныая-треугольная-ферма-1024x550.jpg",
+   "bytes": 47071
+  }
+ ],
+ "komplekt-barn": [
+  {
+   "file": "assets/img/komplekt-barn/komplekt-barn-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekt-barn/komplekt-barn-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekt-barn/komplekt-barn-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/Барнхаус1-300x225.jpg",
+   "bytes": 26986
+  },
+  {
+   "file": "assets/img/komplekt-barn/komplekt-barn-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/Барнхаус1-1024x768.jpg",
+   "bytes": 158601
+  },
+  {
+   "file": "assets/img/komplekt-barn/komplekt-barn-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/Барнхаус1-768x576.jpg",
+   "bytes": 98628
+  },
+  {
+   "file": "assets/img/komplekt-barn/komplekt-barn-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/Барнхаус1-1536x1152.jpg",
+   "bytes": 309385
+  }
+ ],
+ "komplekt-poluramy": [
+  {
+   "file": "assets/img/komplekt-poluramy/komplekt-poluramy-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/komplekt-poluramy/komplekt-poluramy-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/komplekt-poluramy/komplekt-poluramy-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/05/Полурамы-1200.jpg",
+   "bytes": 22286
+  },
+  {
+   "file": "assets/img/komplekt-poluramy/komplekt-poluramy-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/05/Полурамы-1200-300x247.jpg",
+   "bytes": 4231
+  },
+  {
+   "file": "assets/img/komplekt-poluramy/komplekt-poluramy-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/05/Полурамы-1200-600x495.jpg",
+   "bytes": 11273
+  },
+  {
+   "file": "assets/img/komplekt-poluramy/komplekt-poluramy-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2016/05/Полурамы-1500.jpg",
+   "bytes": 23343
+  }
+ ],
+ "uslugi": [
+  {
+   "file": "assets/img/uslugi/uslugi-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/uslugi/uslugi-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/uslugi/uslugi-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512-150x150.jpg",
+   "bytes": 20083
+  },
+  {
+   "file": "assets/img/uslugi/uslugi-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512-300x300.jpg",
+   "bytes": 25492
+  },
+  {
+   "file": "assets/img/uslugi/uslugi-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512-270x270.jpg",
+   "bytes": 24618
+  },
+  {
+   "file": "assets/img/uslugi/uslugi-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512-230x230.jpg",
+   "bytes": 22799
+  }
+ ],
+ "uslugi-dk": [
+  {
+   "file": "assets/img/uslugi-dk/uslugi-dk-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/uslugi-dk/uslugi-dk-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/uslugi-dk/uslugi-dk-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Проектирование-конструкций-кровли-КАРКАСКИН.jpg",
+   "bytes": 118934
+  },
+  {
+   "file": "assets/img/uslugi-dk/uslugi-dk-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Проектирование-конструкций-кровли-КАРКАСКИН-300x201.jpg",
+   "bytes": 21334
+  },
+  {
+   "file": "assets/img/uslugi-dk/uslugi-dk-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Проектирование-конструкций-кровли-КАРКАСКИН-768x515.jpg",
+   "bytes": 74576
+  },
+  {
+   "file": "assets/img/uslugi-dk/uslugi-dk-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/Проектирование-конструкций-кровли-КАРКАСКИН-173x116.jpg",
+   "bytes": 14366
+  }
+ ],
+ "uslugi-domov": [
+  {
+   "file": "assets/img/uslugi-domov/uslugi-domov-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/uslugi-domov/uslugi-domov-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/uslugi-domov/uslugi-domov-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Проектирование2-300x200.jpg",
+   "bytes": 17979
+  },
+  {
+   "file": "assets/img/uslugi-domov/uslugi-domov-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Проектирование2-600x402.jpg",
+   "bytes": 61350
+  },
+  {
+   "file": "assets/img/uslugi-domov/uslugi-domov-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/11/Проектирование2.jpg",
+   "bytes": 165751
+  },
+  {
+   "file": "assets/img/uslugi-domov/uslugi-domov-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2017/03/Проектирование-11.jpg",
+   "bytes": 175637
+  }
+ ],
+ "o-kompanii": [
+  {
+   "file": "assets/img/o-kompanii/o-kompanii-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/o-kompanii/o-kompanii-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/o-kompanii/o-kompanii-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2014/12/каркаскин.jpg",
+   "bytes": 93787
+  }
+ ],
+ "nashi-raboty": [
+  {
+   "file": "assets/img/nashi-raboty/nashi-raboty-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/nashi-raboty/nashi-raboty-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  },
+  {
+   "file": "assets/img/nashi-raboty/nashi-raboty-03.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-02.20.35-300x300.jpeg",
+   "bytes": 26367
+  },
+  {
+   "file": "assets/img/nashi-raboty/nashi-raboty-04.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-02.20.35-1024x1024.jpeg",
+   "bytes": 227283
+  },
+  {
+   "file": "assets/img/nashi-raboty/nashi-raboty-05.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-02.20.35-150x150.jpeg",
+   "bytes": 7168
+  },
+  {
+   "file": "assets/img/nashi-raboty/nashi-raboty-06.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-02.20.35-768x768.jpeg",
+   "bytes": 144474
+  }
+ ],
+ "portfolio": [
+  {
+   "file": "assets/img/portfolio/portfolio-01.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2022/04/cropped-Каркаскин-512х512.jpg",
+   "bytes": 34167
+  },
+  {
+   "file": "assets/img/portfolio/portfolio-02.jpg",
+   "src": "https://karkaskin.ru/wp-content/uploads/2023/07/chertezh-karandash-linii.jpg",
+   "bytes": 310278
+  }
+ ]
+}
