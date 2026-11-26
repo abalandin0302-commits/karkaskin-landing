@@ -3,6 +3,9 @@
    ========================================================= */
 import { fmt } from './app.js';
 
+/* база = каталог этого файла, не зависит от глубины страницы (корень сайта или /karkaskin-landing/) */
+const __JSBASE = new URL('./', import.meta.url).href;
+
 const CATS = [
   { key: 'all', label: 'Все проекты' },
   { key: 'house', label: 'Дома' },
@@ -15,8 +18,8 @@ let IMG_MAP = {};
 
 async function load() {
   const [c, im] = await Promise.all([
-    fetch('/data/catalog.json').then(r => r.json()),
-    fetch('/data/product-images.json').then(r => r.json()).catch(() => ({ index: [] })),
+    fetch(new URL('../../data/catalog.json', __JSBASE)).then(r => r.json()),
+    fetch(new URL('../../data/product-images.json', __JSBASE)).then(r => r.json()).catch(() => ({ index: [] })),
   ]);
   ITEMS = c.items || [];
   IMG_MAP = {};
@@ -32,7 +35,7 @@ export function itemImages(slug) {
 }
 export function itemCover(slug) {
   const imgs = itemImages(slug);
-  return imgs[0] || '/assets/img/brand/logo.png';
+  return imgs[0] || new URL('../img/brand/logo.png', __JSBASE).href;
 }
 
 function card(it) {
@@ -42,7 +45,7 @@ function card(it) {
   if (it.floors) meta.push(`${it.floors} ${it.floors === 1 ? 'этаж' : 'этажа'}`);
   if (it.dimensions) meta.push(it.dimensions);
   return `
-  <a class="prod reveal" href="/catalog/product.html?id=${encodeURIComponent(it.slug)}">
+  <a class="prod reveal" href="product.html?id=${encodeURIComponent(it.slug)}">
     <div class="prod__media">
       <img src="${cover}" alt="${(it.title || '').replace(/"/g, '&quot;')}" loading="lazy" width="600" height="450">
       <span class="chip chip--wood media__tag">${it.code || ''}</span>
@@ -88,7 +91,7 @@ export function renderProduct() {
   const id = new URLSearchParams(location.search).get('id');
   const it = ITEMS.find(i => i.slug === id);
   if (!it) {
-    box.innerHTML = '<div class="card"><h3 class="h-3">Проект не найден</h3><p class="muted">Вернитесь в <a href="/catalog/">каталог</a> и выберите проект.</p></div>';
+    box.innerHTML = '<div class="card"><h3 class="h-3">Проект не найден</h3><p class="muted">Вернитесь в <a href="./index.html">каталог</a> и выберите проект.</p></div>';
     return;
   }
   document.title = `${it.title} — Каркаскин`;
@@ -125,7 +128,7 @@ export function renderProduct() {
         </ul>` : ''}
         <div style="display:flex;gap:12px;flex-wrap:wrap">
           <a class="btn" href="/contacts/?project=${encodeURIComponent(it.title)}">Запросить расчёт этого проекта</a>
-          <a class="btn btn--ghost" href="/catalog/">Все проекты</a>
+          <a class="btn btn--ghost" href="./index.html">Все проекты</a>
         </div>
       </div>
     </div>`;
